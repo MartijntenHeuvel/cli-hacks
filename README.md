@@ -15,5 +15,5 @@ Martijn ten Heuvel
 
 # Index
 
-* GTI[./GTI.md]
-* SL[./SL.md]
+* [GTI](./GTI.md)
+* [SL](./SL.md)
