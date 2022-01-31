@@ -7,7 +7,7 @@ this file has vim hacks.
 All sorts of nice things to put into your .vimrc:
 
 ```
-[200~syntax on
+syntax on
 colo default
 autocmd BufRead,BufNewFile *.adoc   set filetype=asciidoc
 " YAML config"
