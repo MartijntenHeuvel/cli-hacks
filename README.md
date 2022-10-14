@@ -23,6 +23,8 @@ CLI hacks collection for our next conference.
 * [TC](./TC.md)
 * [GIT-Marge](./GIT-Marge.md)
 * [GIT-dad](./GIT-dad.md)
+* [STAR WARS](./STARWARS.md)
+
 
 # 2019 hacks 
 These go here, they are still good, may need a repeat, but still, they could be to good to be true.
