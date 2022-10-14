@@ -6,4 +6,6 @@
 
 https://github.com/mcdwayne/git-marge
 
+## Setup
 
+Just add the git-marge script to /usr/bin and make executable.
